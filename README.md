@@ -1,1 +1,1 @@
-# newGittest The Readme file is for instructions on the repository.
+# Sample codes for review in repository
